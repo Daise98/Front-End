@@ -1,0 +1,24 @@
+* {
+    font-family: 'Titillium Web', cursive;
+    font-weight: 100;
+}
+
+.contact-form {
+font-size: 25px;
+} 
+
+
+h2 {
+    font-size: 2em;
+    color: rgb(165, 117, 175);
+    
+    background-color: rgb(36, 27, 27);
+    display: inline-block;
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    border: 8px solid rgb(165, 117, 175);
+    box-shadow: 20px 20px 10px 0 #000;
+    text-shadow: 5px 5px 10px rgb(56, 52, 52);
